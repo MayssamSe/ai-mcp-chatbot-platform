@@ -1,0 +1,12 @@
+{
+  "mcpServers" : {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\HP\\Documents\\Master-SDIA\\S2\\Systèmes Distribués\\tp6\\tp6\\mcp-server-spring-python"
+      ]
+    }
+  }
+}
