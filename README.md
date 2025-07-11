@@ -3,7 +3,7 @@
 
 ## Description
 
-Ce projet a pour objectif de développer une plateforme chatbot innovante basée sur le protocole **MCP (Model-Context-Protocol)**.  
+Ce projet a pour objectif de développer une plateforme chatbot innovante basée sur le protocole **MCP **.  
 Il combine plusieurs technologies modernes : Spring AI, MCP, Python et NodeJS, pour créer un système distribué multi-langages capable de gérer des conversations intelligentes.
 
 Le projet met en œuvre un serveur MCP avec Java Spring, un client MCP intégrant des modèles d'IA comme Llama 3.2, Claude et OpenAI, ainsi que des serveurs MCP complémentaires en Python et NodeJS.
