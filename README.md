@@ -62,6 +62,10 @@ Le projet met en œuvre un serveur MCP avec Java Spring, un client MCP intégran
 
 ![Resultat](images/resultat.PNG)
 
+### Tests client MCP
+
+![Resultat](images/client.PNG)
+
 ---
 
 **Auteur:** Mayssam Sehait  
