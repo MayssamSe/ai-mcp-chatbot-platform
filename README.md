@@ -58,7 +58,7 @@ Le projet met en œuvre un serveur MCP avec Java Spring, un client MCP intégran
 
 ![Notification](images/notif.PNG)
 
-![CompanyByName](images/ByNamePost.PNG)
+![CompanyByName](images/byNamePost.PNG)
 
 ![Resultat](images/resultat.PNG)
 
